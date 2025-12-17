@@ -10,3 +10,8 @@ this is the new change in the notes.txt.
 Another line addrd to nodes.txt
 Another line added to notes.txt
 hi
+
+
+
+This is a newly staged change.
+
