@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Version from main.
+=======
+Version from conflict-test
+>>>>>>> feature/conflict-test
 
 this is the new change in the notes.txt.
 Another line addrd to nodes.txt
