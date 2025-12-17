@@ -1,8 +1,10 @@
-<<<<<<< HEAD
+--- Version from main branch ---
 Version from main.
-=======
+
+--- Version from feature/conflict-test branch ---
 Version from conflict-test
->>>>>>> feature/conflict-test
+
+feature/conflict-test
 
 this is the new change in the notes.txt.
 Another line addrd to nodes.txt
