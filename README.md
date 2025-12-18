@@ -11,3 +11,6 @@ Release v1.2.0 changes
 ## Main Branch Update
 This change was made directly on the main branch.
 
+## Main Update
+This change was added directly on the main branch.
+
