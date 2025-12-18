@@ -19,3 +19,5 @@ This is a newly staged change.
 First small change.
 Second small change.
 Third small change.
+Thiss is a smal typo.
+
