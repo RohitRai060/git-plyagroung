@@ -1,3 +1,4 @@
+hi
 This is my project description.
 This project is for practicing Git commands.
 
