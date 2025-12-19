@@ -1,0 +1,3 @@
+[submodule "external/lib-repo"]
+	path = external/lib-repo
+	url = /Users/rohit/git-playground/lib-repo
